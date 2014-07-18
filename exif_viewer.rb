@@ -1,6 +1,6 @@
 require 'mini_exiftool'
 
-photo = MiniExiftool.new "horses.jpg"
+photo = MiniExiftool.new "roofing.jpg"
 
 #coloradoclouds.jpg
 # mustacheprincess.jpg
