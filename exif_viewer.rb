@@ -2,6 +2,13 @@ require 'mini_exiftool'
 
 photo = MiniExiftool.new "horses.jpg"
 
+#coloradoclouds.jpg
+# mustacheprincess.jpg
+# mountaingoats.jpg
+# bear.jpg
+# Tetons.jpg
+
+
 puts "˚ "*10
 puts "Image Title:\n #{photo[:Title]}"
 puts "˚ "*10
